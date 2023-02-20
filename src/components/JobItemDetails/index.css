@@ -1,0 +1,11 @@
+.job-details-container {
+  background-color: black;
+  min-height: 100vh;
+}
+.job-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}

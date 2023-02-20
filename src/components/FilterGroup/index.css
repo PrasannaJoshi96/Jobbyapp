@@ -1,0 +1,44 @@
+.filters-container {
+  display: flex;
+  flex-direction: column;
+}
+.employee-type-heading {
+  color: #cbd5e1;
+  font-size: 26px;
+  font-family: roboto;
+}
+
+.employee-type-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.employment-type-list-items {
+  color: #cbd5e1;
+  display: flex;
+}
+.label-item {
+  color: #cbd5e1;
+  font-size: 18px;
+}
+.hr-line {
+  width: 100%;
+  color: #cbd5e1;
+}
+.checkbox {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.salary-list-item {
+  color: #cbd5e1;
+  display: flex;
+}
+.salary-range-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.radio-btn {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
